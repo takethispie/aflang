@@ -1,0 +1,1 @@
+coco.exe aflang.atg -namespace aflang
